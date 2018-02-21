@@ -1,0 +1,36 @@
+li {
+  list-style: none;
+  display: inline-block;
+    list-style: none;
+    width: 20%;
+}
+
+ul {
+	    display: flex;
+    justify-content: center;
+}
+
+#burgerPic {
+    width: 20%;
+}
+
+.burgerIcon {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.burgerIcon img {
+  align-self: center;
+}
+
+.bugerName {
+	text-align: center;
+	    padding: 10px;
+
+}
+
+.buttondiv{
+	display: flex;
+    justify-content: center;
+}
